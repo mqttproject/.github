@@ -1,4 +1,6 @@
 # mqttproject
+![Project diagram](./diagram.png)
+
 ## Project Idea
 mqttproject is a simulation platform for testing IoT networks using MQTT. The project aims to provide a controlled environment for simulating multiple IoT devices.
 
